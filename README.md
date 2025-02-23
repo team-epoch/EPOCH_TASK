@@ -1,4 +1,4 @@
-# EPOCH_3rd
+# EPOCH
 데이터사이언스 연합 동아리 에폭(EPOCH)의 TASK 저장소입니다. [2025.03 ~ 2025.07]
 
 ## About Us

@@ -1,6 +1,8 @@
 # EPOCH
 데이터사이언스 연합 동아리 에폭(EPOCH)의 TASK 저장소입니다. [2025.03 ~ 2025.07]
 
+![Image](https://github.com/user-attachments/assets/2faef4a8-5064-45c6-9b6b-05bfb8fc4dd7)
+
 ## About Us
 - 에폭(EPOCH)은 2024년 2월 개설된 데이터 사이언스 연합 동아리입니다.
 - 에폭(EPOCH)은 Build-Up Session, Mini-Project, Deep-Dive Session으로 구성된 총 12주간의 정기 세션을 진행하며, 각종 프로젝트와 함께 응용 기반 이론 중점 학습을 지향하고 있습니다.

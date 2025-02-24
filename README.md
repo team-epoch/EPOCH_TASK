@@ -1,5 +1,5 @@
 # EPOCH
-데이터사이언스 연합 동아리 에폭(EPOCH)의 TASK 저장소입니다. [2025.03 ~ 2025.07]
+데이터사이언스 연합 동아리 에폭(EPOCH)의 TASK 제출 저장소입니다. [2025.03 ~ 2025.07]
 
 ![Image](https://github.com/user-attachments/assets/2faef4a8-5064-45c6-9b6b-05bfb8fc4dd7)
 

@@ -21,8 +21,8 @@
 ## 코드 제출 방식
 아래 형식에 맞게 제출합니다.
 
-- R팀 제출 경로: `EPOCH/3rd/Research Team_3rd/week N/00기_이름.ipynb`
-- D팀 제출 경로: `EPOCH/3rd/Develop Team_3rd/week N/00기_이름.md`
+- R팀 제출 경로: `EPOCH/3rd_TASK/Research Team_3rd/week N/00기_이름.ipynb`
+- D팀 제출 경로: `EPOCH/3rd_TASK/Develop Team_3rd/week N/00기_이름.md`
 
 제출 기한: '매주 정기 세션 전날 자정'
 - ⏰지각: 정기 세션 전날 자정으로부터 1초 이상, 29분 59초 이하

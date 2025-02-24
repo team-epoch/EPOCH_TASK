@@ -27,8 +27,8 @@ TASK를 얼마나 잘했는지는 중요하지 않습니다.
 자유롭게 본인이 깊게 파고들고 싶은 만큼 TASK를 진행하고, 그 결과를 공유하도록 합니다.
 
 
-- R팀 제출 경로: 'EPOCH/3rd/Research Team_3rd/week_N/00기 이름_.ipynb'
-- D팀 제출 경로: 'EPOCH/3rd/Develop Team_3rd/week_N/00기 이름_.md'
+- R팀 제출 경로: 'EPOCH/3rd/Research Team_3rd/week_N/00기 이름.ipynb'
+- D팀 제출 경로: 'EPOCH/3rd/Develop Team_3rd/week_N/00기 이름.md'
 
 제출 기한: '매주 정기 세션 전날 자정'
 - ⏰지각: 정기 세션 시작 전 ~00:20:00

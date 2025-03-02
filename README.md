@@ -19,10 +19,10 @@
 - `Develop Team`: 데이터 분석 및 모델링 전반의 프로세스를 익히고, 실무적인 문제 해결 역량을 기릅니다.
 
 ## 코드 제출 방식
-아래 형식에 맞게 제출합니다.
+아래 형식에 맞게 올바른 제출 경로로 제출합니다.
 
-- R팀 제출 경로: `EPOCH/3rd_TASK/Research Team_3rd/week N/00기_이름.md`
-- D팀 제출 경로: `EPOCH/3rd_TASK/Develop Team_3rd/week N/00기_이름.ipynb`
+- Research Team 제출 경로: `EPOCH/3rd_TASK/Research Team_3rd/week N/00기_이름.md`
+- Develop Team 제출 경로: `EPOCH/3rd_TASK/Develop Team_3rd/week N/00기_이름.ipynb`
 
 ## 제출 기한: '매주 정기 세션 전날 자정'
 - ⏰지각: 정기 세션 전날 자정으로부터 1초 이상, 29분 59초 이하

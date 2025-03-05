@@ -13,8 +13,8 @@
 ## 🤔 금주 리뷰 예정인 Task 논문명
 
 - 윤빈 : Kim, M., & Cho, G. H. (2021). Analysis on bike-share ridership for origin-destination pairs: Effects of public transit route characteristics and land-use patterns. Journal of Transport Geography, 93, 103047.
-- 송주 : 
-- 재희 :
+- 송주 : Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional networks for biomedical image segmentation. In N. Navab, J. Hornegger, W. M. Wells, & A. F. Frangi (Eds.), Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015 (pp. 234–241). Springer. https://doi.org/10.1007/978-3-319-24574-4_28
+- 재희 : Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., Krueger, G., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision. arXiv preprint arXiv:2103.00020. https://arxiv.org/abs/2103.00020
 - 우림 : 
-- 의진 : 
+- 의진 : Hu, M., Cao, Y., Li, A., Li, Z., Liu, C., Li, T., Chen, M., & Liu, Y. (2024). FedMut: Generalized Federated Learning via Stochastic Mutation. Proceedings of the AAAI Conference on Artificial Intelligence, 38(11), 12528-12537. https://doi.org/10.1609/aaai.v38i11.29146
 

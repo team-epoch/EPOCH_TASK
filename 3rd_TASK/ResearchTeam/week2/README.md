@@ -12,7 +12,7 @@
 
 ## 🤔 금주 리뷰 예정인 Task 논문명
 
-- 윤빈 :
+- 윤빈 : Kim, M., & Cho, G. H. (2021). Analysis on bike-share ridership for origin-destination pairs: Effects of public transit route characteristics and land-use patterns. Journal of Transport Geography, 93, 103047.
 - 송주 : 
 - 재희 :
 - 우림 : 

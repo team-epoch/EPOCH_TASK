@@ -11,7 +11,6 @@
 - 업로드시 참고해주실 양식은 [Notion_Week1 양식](https://www.notion.so/Build-Up-1st-R-team-82311246b0d846f388014482ec481784?pvs=4#1ac0de90854f807a9713fc89ca8ecc44)을 참고해주시면 됩니다!
 
 
-
 ## 🤔 저는 TASK 논문을 어디서 찾아야 할지 모르겠어요!
 - [DSBA Research Paper Reading Roadmap](https://www.dropbox.com/scl/fi/3k9tbhesgv11smqma3kp9/DSBA-Paper-Reading-Roadmap_2020_1205.pdf?rlkey=9uztk8zpclenkbxv9svxuure7&e=2&dl=0)
 - [서울대학교 산업공학과 DSBA 연구실](https://www.youtube.com/playlist?list=PLetSlH8YjIfUpPbSAfsY4zBJfztlH9CSQ)

@@ -8,6 +8,7 @@
 
 - Github에 `ResearchTeam_week 1` 경로에, TASK를 `.md` 형식으로 업로드 해주시면 됩니다.
 - 업로드시 참고해주실 양식은 [Notion_Week2 양식](https://www.notion.so/Build-Up-1st-R-team-82311246b0d846f388014482ec481784?pvs=4#1ac0de90854f807a9713fc89ca8ecc44)을 참고해주시면 됩니다!
+- **송주**님께서는 week2 하향식 접근 논문 발제자이시기 때문에, **~25.03.11(화) 12:00:00까지** 제출해주셔도 됩니다!!
 
 
 ## 🤔 금주 리뷰 예정인 Task 논문명

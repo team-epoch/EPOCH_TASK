@@ -17,7 +17,7 @@
 - 윤빈 : Lee, K., Kim, W., Baek, J., & Kim, J. (2021). A comparison into the factors affecting urban rail systems: local, express, and high-speed rail in tunnels at a great depth in a metropolitan area. Sustainability, 13(17), 9527.
 - 송주 : 
 - 재희 : 
-- 우림 : 
+- 우림 : Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., Graves, A., Riedmiller, M., Fidjeland, A. K., Ostrovski, G., Petersen, S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra, D., Legg, S., & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529-533. https://doi.org/10.1038/nature14236
 - 의진 : Hao Guan, Pew-Thian Yap, Andrea Bozoki, Mingxia Liu, Federated learning for medical image analysis: A survey, Pattern Recognition, Volume 151, 2024, 110424, ISSN 0031-3203, https://doi.org/10.1016/j.patcog.2024.110424.
 
 

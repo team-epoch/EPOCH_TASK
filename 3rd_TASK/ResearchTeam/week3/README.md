@@ -17,6 +17,6 @@
 - 송주 : 
 - 재희 : 
 - 우림 : 
-- 의진 : 
+- 의진 : Hao Guan, Pew-Thian Yap, Andrea Bozoki, Mingxia Liu, Federated learning for medical image analysis: A survey, Pattern Recognition, Volume 151, 2024, 110424, ISSN 0031-3203, https://doi.org/10.1016/j.patcog.2024.110424.
 
 

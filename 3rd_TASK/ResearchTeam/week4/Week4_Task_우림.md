@@ -129,9 +129,9 @@
 
 - 가정: iid인 연속 또는 이산형 변수 x샘플 N개로 이루어진 데이터셋
     - 데이터가 관찰되지 않은 랜덤한 연속변수 z에 의해서 생성된다고 가정
-    - 사전 분포 $p_{\theta^*}(\bold z)$
-    - 가능도 $p_{\theta^*}(\bold x|\bold z)$
-    - 사전 분포, 가능도는 parametric families of distributions $p_{\theta}(\bold z)$와 $p_{\theta}(\bold x|\bold z)$로부터 오고, PDF들은 $\theta,\bold z$에 대해 미분 가능
+    - 사전 분포 $p_{\theta^*}(z)$
+    - 가능도 $p_{\theta^*}(x|z)$
+    - 사전 분포, 가능도는 parametric families of distributions $p_{\theta}(z)$와 $p_{\theta}(x|z)$로부터 오고, PDF들은 $\theta,z$에 대해 미분 가능
 - true posterior density 구하기 어려우므로 marginal likelihood의 적분 어려움 → EM, VB 알고리즘 사용 X
 - large dataset의 경우, batch optimization 사용시 많은 비용 소요
 
@@ -139,16 +139,19 @@
 
 - Background - VI 파트에 첨부한 링크 참고
 
-![image.png](Week4_Task_%E1%84%8B%E1%85%AE%E1%84%85%E1%85%B5%E1%86%B7%201be04fc3e65180ec9264f19f9c066a59/image.png)
+![image](https://github.com/user-attachments/assets/a4344e92-46b8-4c12-aece-f52ece25721c)
+
+
 
 **✅ The SGVB estimator and AEVB algorithm**
 
-![image.png](Week4_Task_%E1%84%8B%E1%85%AE%E1%84%85%E1%85%B5%E1%86%B7%201be04fc3e65180ec9264f19f9c066a59/image%201.png)
+![image](https://github.com/user-attachments/assets/5cfe13cc-a901-4760-9884-46e42626b55e)
+
 
 **✅ The reparameterization trick**
 
-- $\bold z$: continuous random variable
-- $\bold z$ ~ $q_\phi(\bold z|\bold x)$ 조건부 분포
+- $z$: continuous random variable
+- $z$ ~ $q_\phi(z|x)$ 조건부 분포
 - z를 N(μ,σ)에서 직접적으로 샘플링하지 않고 Deterministic output vector + Gaussian Noise로 계산하는 것
 </aside>
 

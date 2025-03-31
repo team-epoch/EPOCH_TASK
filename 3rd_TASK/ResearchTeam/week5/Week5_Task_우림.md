@@ -83,7 +83,7 @@
 - e.g., 판다의 사진(input)에 매우 작은 epsilon 값의 노이즈를 추가하면 gibbon(긴팔원숭이; output)를 출력하는 것
 - Adversarial example: noise가 추가된 출력 이미지, 사람의 눈으로 보기에는 인풋과 동일한 이미지여야 함(구분 불가능)
 
-![image.png](Week5_Task_%E1%84%8B%E1%85%AE%E1%84%85%E1%85%B5%E1%86%B7%201c604fc3e65180369798cf8c8d513807/image.png)
+![image](https://github.com/user-attachments/assets/259ffaee-df75-4887-954d-843b306dd29d)
 
 **📍 선형적 설명**
 
@@ -91,7 +91,7 @@
     - 매우 작은 색상의 변화에 대한 차이를 표현하는데 한계
 - e.g., 시스템 상에서는 노이즈의 크기가 만약 0.3 픽셀 정도의 차이이고 기존의 값이 100이었다면, 100.3이 아닌 100으로 표현되는데 모델은 고차원 공간 상에서 이러한 미세한 차이가 축적된다면 큰 변화를 이끌어 낼 수 있음
 
-![image.png](Week5_Task_%E1%84%8B%E1%85%AE%E1%84%85%E1%85%B5%E1%86%B7%201c604fc3e65180369798cf8c8d513807/image%201.png)
+![image](https://github.com/user-attachments/assets/03a8f3bb-cbbc-4e1a-b78c-a76909323f74)
 
 </aside>
 
@@ -144,7 +144,8 @@ $$
 - **Max norm(Infinity-norm)**
     - 절댓값이 가장 큰 원소를 선택
     
-    ![image.png](Week5_Task_%E1%84%8B%E1%85%AE%E1%84%85%E1%85%B5%E1%86%B7%201c604fc3e65180369798cf8c8d513807/image%202.png)
+    ![image](https://github.com/user-attachments/assets/7bec8758-15de-42fb-966f-dd9af7bf77cc)
+
     
 
 **✅ FGSM에 근거한 정규화에 효율적인 objective function**
@@ -189,7 +190,7 @@ $$
 
 - 정확도 (Accuracy)
 
-![image.png](Week5_Task_%E1%84%8B%E1%85%AE%E1%84%85%E1%85%B5%E1%86%B7%201c604fc3e65180369798cf8c8d513807/image%203.png)
+![image](https://github.com/user-attachments/assets/77499a8a-dbf0-4590-82e4-86abfa2c6106)
 
 </aside>
 
